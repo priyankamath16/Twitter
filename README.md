@@ -1,8 +1,4 @@
 # Twitter
 Twitter Backend
-hello  world
-jithesh
-priyanka
-tarun
-abcd
-defghi
+Sample pull requests
+for commit 2
